@@ -1,0 +1,1220 @@
+{
+    "courses": [
+      {
+        "course_name": "Level 2 NVQ Diploma in Specialist Installations – Architectural Metalwork",
+        "price": "£750 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-specialist-installations-architectural-metalwork/",
+        "for_whom": "For those working in the industry who are looking to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "K/616/6316", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "L/617/2545", "description": "Installing architectural metalwork"},
+          {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+          {"unit_name": "Y/508/6533", "description": "Moving, handling and storing resources"}                    
+        ],
+        "assessment": [
+            "The assessor will support you in completing your portfolio",
+            "Completion in 4 – 6 weeks, providing you have the time",
+            "Record answers to knowledge units via a discussion",
+            "Certificate emailed to you directly following internal verification",
+            "Apply for the Skilled Labourers blue CSCS card"                        
+        ],
+        "benefits": ["Access to the blue Skilled Labourers CSCS card"],
+        "card": "CSCS Blue Card"
+      },
+      {
+        "course_name": "Level 2 NVQ Diploma in Interior Systems – Acoustic Flooring Installation",
+        "price": "£750 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-interior-systems-acoustic-flooring-installation/",
+        "for_whom": "For those working in the industry who are looking to gain professional recognition of their occupational skills. There are no formal entry requirements",
+        "units_mandatory": [
+          {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+          {"unit_name": "Y/508/6533", "description": "Moving, handling and storing resources"},
+          {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "M/615/1252", "description": "Installing acoustic flooring"}                    
+        ],
+        "assessment": [
+            "The assessor will support you in completing your portfolio",
+            "Completion in 4 – 6 weeks, providing you have the time",
+            "Record answers to knowledge units via a discussion",
+            "Certificate emailed to you directly following internal verification",
+            "Apply for the Skilled Labourers blue CSCS card"                        
+        ],
+        "benefits": [
+            "Access to the blue Skilled Labourers CSCS card",
+            "Demonstrates knowledge and competence to an industry standard",
+            "Provides business enhancement for potential employers"
+        ],
+        "card": "Blue Skilled Labourers CSCS Card"
+      },
+      {
+        "course_name": "Level 2 NVQ Diploma in Trowel Occupations – Brick Laying",
+        "price": "£750 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-trowel-occupations-brick-laying/",
+        "for_whom": "For those working in the industry who are looking to apply for their blue CSCS Skilled Labourers card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "A/503/1170", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "J/503/1169", "description": "Conforming to productive working practices"},
+          {"unit_name": "F/503/1171", "description": "Moving, handling and storing resources"},
+          {"unit_name": "A/503/9463", "description": "Erecting masonry structures – 1 endorsement"},
+          {"unit_name": "Y/503/9471", "description": "Setting out to form masonry structures – 4 endorsements"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 4 – 6 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the Skilled Labourers Blue CSCS card"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Blue Skilled Labourers CSCS card"
+        ],
+        "card": "CSCS Blue Card"
+      },
+      {
+        "course_name": "Level 2 NVQ Diploma in Cladding Occupations",
+        "price": "£750 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-cladding-occupations/",
+        "for_whom": "For those working in the industry who are looking to apply for their blue CSCS Skilled Labourers card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "A/503/1170", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "J/503/1169", "description": "Conforming to productive working practices"},
+          {"unit_name": "F/503/1171", "description": "Moving, handling and storing resources"},
+          {"unit_name": "A/616/1704", "description": "Preparing resources for the installation of sheeting and cladding materials"},
+          {"unit_name": "F/616/1705", "description": "Installing sheeting and cladding systems on roofs and walls"},
+          {"unit_name": "J/616/1706", "description": "Installing sheeting and cladding rainwater goods on roofs and walls"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 6 – 8 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the blue CPCS card"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Blue Skilled Labourers CSCS card"
+        ],
+        "card": "CSCS Blue Card"
+      },
+      {
+        "course_name": "Level 2 NVQ Diploma in Specialist Concrete Occupations",
+        "price": "£750 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-specialist-concrete-occupations/",
+        "for_whom": "For those working in the industry who are looking to apply for their blue CSCS Skilled Labourers card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "A/503/1170", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "J/503/1169", "description": "Conforming to productive working practices"},
+          {"unit_name": "F/503/1171", "description": "Moving, handling and storing resources"},
+          {"unit_name": "T/503/9560", "description": "Installing, maintaining and removing work area protection and safety equipment"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 4 – 6 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the Skilled Labourers Blue CSCS card"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Blue Skilled Labourers CSCS card"
+        ],
+        "card": "CSCS Blue Card"
+      },
+      {
+        "course_name": "Level 2 NVQ Diploma in Plant Operations – Cranes & Specialist Lifting",
+        "price": "£650 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-plant-operations-cranes-and-specialist-lifting/",
+        "for_whom": "For those working in the industry who are looking to apply for their blue CPCS card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+          {"unit_name": "Y/508/6533", "description": "Moving, handling and storing resources"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 6 – 8 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the blue CPCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the blue CPCS card"
+        ],
+        "card": "Blue CPCS Card"
+      },
+      {
+        "course_name": "Level 2 NVQ Diploma in Demolition & Refurbishment",
+        "price": "£650 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-demolition-and-refurbishment/",
+        "for_whom": "For those working in the industry who are looking to apply for their blue CSCS Skilled Labourers card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+          {"unit_name": "Y/508/6533", "description": "Moving, handling and storing resources"},
+          {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "J/618/8484", "description": "Removing and segregating components and materials in demolition"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 4 – 6 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the Skilled Labourers blue CSCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the blue Skilled Labourers CSCS card"
+        ],
+        "card": "CSCS Blue Card"
+      },
+
+      {
+        "course_name": "Level 2 NVQ Diploma in Construction Operations – Drainage",
+        "price": "£750 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-construction-operations-drainage/",
+        "for_whom": "For those working in the industry who are looking to apply for their blue CSCS Skilled Labourers card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "L/503/4252", "description": "Workplace health, safety and welfare"},
+          {"unit_name": "R/503/4253", "description": "Conform to productive working practices"},
+          {"unit_name": "D/503/4384", "description": "Set out secondary dimensional work controls"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 4 – 6 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the Skilled Labourers Blue CSCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Blue Skilled Labourers CSCS card"
+        ],
+        "card": "Blue Skilled Labourers CSCS Card"
+      },
+
+      {
+        "course_name": "Level 2 NVQ Certificate in Interior Systems – Dry Lining Boarder or Finisher",
+        "price": "£750 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-certificate-in-interior-systems-dry-lining-boarder-or-finisher/",
+        "for_whom": "Those working in the industry who are looking to apply for their blue CSCS Skilled Labourers card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+          {"unit_name": "Y/508/6533", "description": "Moving, handling and storing resources"},
+          {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 4 – 6 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the Skilled Labourers Blue CSCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Blue Skilled Labourers CSCS card"
+        ],
+        "card": "Blue Skilled Labourers CSCS Card"
+      },
+      
+      {
+        "course_name": "Level 2 NVQ Diploma in Heating & Ventilation – Ductwork",
+        "price": "£1995 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-heating-and-ventilation-ductwork/",
+        "for_whom": "For those working in the HVAC industry installing ductwork. There are no formal entry requirements in terms of qualifications, however you must be working in the role.",
+        "units_mandatory": [
+          {"unit_name": "J4FC 04", "description": "Apply Health and Safety and Environmental Legislation in the Building Services Engineering Sector"},
+          {"unit_name": "J4FD 04", "description": "Establish and Maintain Relationships in the Building Services Engineering Sector"},
+          {"unit_name": "J4FE 04", "description": "Install and Test Industrial and Commercial Heating and Ventilating Ductwork Systems"},
+          {"unit_name": "J4FF 04", "description": "Prepare to Carry Out Work"},
+          {"unit_name": "J4FG 04", "description": "Identify Systems, Equipment and Components"},
+          {"unit_name": "J4FH 04", "description": "Inspect and Test Mechanical Systems, Equipment and Components"}
+        ],
+        "assessment": [
+          "Our assessor will support you in completing your portfolio",
+          "Completion in 6 - 8 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion or write them",
+          "Certificate emailed to you directly following internal verification",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Blue Skilled Worker CSCS card"
+        ],
+        "card": "Blue Skilled Worker CSCS Card"
+      },
+            
+      {
+        "course_name": "Level 2 NVQ Diploma in Plant Operations – Excavating",
+        "price": "£750 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-plant-operations-excavating/",
+        "for_whom": "For those working in the industry who are looking to apply for their blue CPCS card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+          {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 6 – 8 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the blue CPCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the blue CPCS card"
+        ],
+        "card": "Skill Operator Card"
+      },
+      
+      {
+        "course_name": "Level 2 NVQ Diploma in Formwork",
+        "price": "£750 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-formwork/",
+        "for_whom": "For those working in the formwork industry as either a Carpenter or an Erector Striker, seeking to gain professional recognition of their skills in the industry.",
+        "units_mandatory": [
+          {"unit_name": "A/503/1170", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "J/503/1169", "description": "Conforming to productive working practices"},
+          {"unit_name": "F/503/1171", "description": "Moving, handling and storing resources"},
+          {"unit_name": "Y/650/1653", "description": "Erecting and striking timber and proprietary formwork in the workplace"},
+          {"unit_name": "T/650/1652", "description": "Fabricating and maintaining timber and proprietary formwork systems in the workplace"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 4 – 6 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the Blue CSCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Blue CSCS card"
+        ],
+        "card": "Blue Skilled Labourers CSCS Card"
+      },
+      {
+        "course_name": "Level 2 NVQ Certificate in Fitted Interiors for Kitchen and Bathroom Fitters",
+        "price": "£750 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-certificate-in-fitted-interiors-for-kitchen-and-bathroom-fitters/",
+        "for_whom": "For those working in the industry who are looking to apply for their blue CSCS Skilled Labourers card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+          {"unit_name": "Y/508/6533", "description": "Moving, handling and storing resources"},
+          {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "J/615/1841", "description": "Installing fitted furniture in the workplace"},
+          {"unit_name": "A/503/2772", "description": "Confirming work activities and resources for an occupational work area"},
+          {"unit_name": "M/503/2915", "description": "Developing and maintaining good occupational working relationships"},
+          {"unit_name": "R/503/2924", "description": "Confirming the occupational method of work"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 4 – 6 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the Skilled Labourers Blue CSCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Blue Skilled Labourers CSCS card"
+        ],
+        "card": "Blue Skilled Labourers CSCS Card"
+      },
+
+      {
+        "course_name": "Level 2 NVQ Diploma in Ground Works Operations",
+        "price": "£650 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-ground-works-operations/",
+        "for_whom": "For those working in the industry who are looking to apply for their blue CSCS Skilled Labourers card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "D/615/3370", "description": "Health and Safety in a Construction Environment"},
+          {"unit_name": "H/615/3371", "description": "Workplace health, safety and welfare"},
+          {"unit_name": "K/615/3372", "description": "Operate a powered tool and equipment"},
+          {"unit_name": "M/615/3373", "description": "Utility location and avoidance"},
+          {"unit_name": "L/615/5213", "description": "Installing drainage"},
+          {"unit_name": "Y/615/5215", "description": "Laying kerbs and channels"},
+          {"unit_name": "D/615/5216", "description": "Laying modular paving"},
+          {"unit_name": "H/615/5217", "description": "Lay and finish concrete"},
+          {"unit_name": "A/615/3375", "description": "Working in confined spaces"},
+          {"unit_name": "F/615/3376", "description": "Providing shoring support"},
+          {"unit_name": "J/615/3377", "description": "Installing shallow pipelines"},
+          {"unit_name": "L/615/3378", "description": "Conform to productive work practices"},
+          {"unit_name": "T/615/3374", "description": "Prepare for and carry out ground works operations"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 4 – 6 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the Skilled Labourers Blue CSCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Blue Skilled Labourers CSCS card"
+        ],
+        "card": "Blue Skilled Labourers CSCS Card"
+      },
+
+      {
+        "course_name": "Level 2 NVQ Diploma in Installing Fire Resisting Timber Doorsets",
+        "price": "£750 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-installing-fire-resisting-timber-doorsets/",
+        "for_whom": "For those working in the industry who are looking to apply for their blue CSCS Skilled Labourers card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+          {"unit_name": "F/617/2493", "description": "Installing fire resisting timber doorsets"},
+          {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 4 – 6 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the Skilled Labourers Blue CSCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Blue Skilled Labourers CSCS card"
+        ],
+        "card": "Blue Skilled Labourers CSCS Card"
+      },
+      
+      {
+        "course_name": "Level 2 NVQ Diploma in Interior Systems – Dry Lining & Ceiling Fixing NVQ",
+        "price": "£750 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-diploma-in-interior-systems-dry-lining-and-ceiling-fixing-nvq/",
+        "for_whom": "For those working in the role of ceiling fixers or dry lining fixers or finishers on site. There are no formal entry requirements in terms of qualifications, however, the delegate should be working in the role.",
+        "units_mandatory": [
+          {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "Y/508/6533", "description": "Moving, handling and storing resources"},
+          {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 4 – 8 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for your blue Skilled Worker CSCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to a CSCS card"
+        ],
+        "card": "Blue Skilled Labourers CSCS Card"
+      },
+
+      {
+        "course_name": "Level 2 NVQ Diploma in Building Maintenance",
+        "price": "£750 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-building-maintenance/",
+        "for_whom": "For those working in the industry, seeking to gain professional recognition of their skills in the workplace. There are no formal entry requirements in terms of qualifications.",
+        "units_mandatory": [
+          {"unit_name": "J/500/8829", "description": "Deliver reliable customer service"},
+          {"unit_name": "Y/508/6533", "description": "Moving, handling and storing resources"},
+          {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"}
+        ],
+        "assessment": [
+          "The assessor will support you in gathering evidence for your portfolio",
+          "Evidence includes a Witness Testimony and relevant site and H&S documentation",
+          "Completion in 4 – 8 weeks, providing you have the time",
+          "Write or record answers to knowledge units via a discussion",
+          "Your CITB recognised certificate will be emailed to you upon completion and you can apply for your blue Skilled Labourers CSCS card",
+          "Before applying for your card, ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the blue Skilled Labourers CSCS card"
+        ],
+        "card": "Blue Skilled Labourers CSCS Card"
+      },
+
+      {
+        "course_name": "Level 2 NVQ Diploma in Plant Operations – Transporting Loads",
+        "price": "£650 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-plant-operations-transporting-loads/",
+        "for_whom": "For those working in the industry who are looking to apply for their blue CPCS card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+          {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "H/508/6583", "description": "Preparing and operating truck-mounted boom concrete pumps to receive, pump and discharge materials"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 4 – 6 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the blue CPCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the blue CPCS card"
+        ],
+        "card": "Blue Skilled Labourers CSCS Card"
+      },
+
+
+     {
+  "course_name": "Level 2 NVQ Diploma in Construction Plant or Machinery Maintenance",
+  "price": "£950 + VAT",
+  "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-construction-plant-or-machinery-maintenance/",
+  "for_whom": "For those working in the industry who are looking to apply for their blue CPCS card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+  "units_mandatory": [
+    {"unit_name": "J/616/4461", "description": "Inspecting plant or machinery for operational serviceability"},
+    {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+    {"unit_name": "Y/508/6533", "description": "Moving, handling and storing resources"},
+    {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+    {"unit_name": "F/616/4457", "description": "Operating plant or machinery for non-operational activities"},
+    {"unit_name": "J/616/4458", "description": "Servicing plant or machinery"},
+    {"unit_name": "L/616/4459", "description": "Removing and replacing plant or machinery components"},
+    {"unit_name": "F/616/4460", "description": "Dismantling and assembling plant or machinery components"},
+    {"unit_name": "L/616/4462", "description": "Diagnosing faults in plant or machinery systems or components"}
+  ],
+  "assessment": [
+    "The assessor will support you in completing your portfolio",
+    "Completion in 6 – 8 weeks, providing you have the time",
+    "Record answers to knowledge units via a discussion",
+    "Certificate emailed to you directly following internal verification",
+    "Apply for the blue CPCS card",
+    "Ensure that your Health, Safety and Environment Test is up to date"
+  ],
+  "benefits": [
+    "Increased earning potential",
+    "Demonstrates commitment to personal and professional development",
+    "Provides business enhancement for potential employers",
+    "Demonstrates knowledge and competence to an industry standard",
+    "Access to the blue CPCS card"
+  ],
+  "card": "Skill Operator Card"
+},
+
+{
+  "course_name": "Level 2 NVQ Diploma in Plastering – Solid or Fibrous",
+  "price": "£750 + VAT",
+  "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-plastering-solid-or-fibrous/",
+  "for_whom": "For those working in the industry who are looking to apply for their blue CSCS Skilled Labourers card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+  "units_mandatory": [
+    {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+    {"unit_name": "Y/508/6533", "description": "Moving, handling and storing resources"},
+    {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+    {"unit_name": "D/615/1571", "description": "Positioning and securing fibrous plaster components"},
+    {"unit_name": "H/615/1572", "description": "Repairing fibrous plaster components"},
+    {"unit_name": "K/615/1573", "description": "Producing fibrous plaster components"}
+  ],
+  "assessment": [
+    "The assessor will support you in completing your portfolio",
+    "Completion in 4 – 6 weeks, providing you have the time",
+    "Record answers to knowledge units via a discussion",
+    "Certificate emailed to you directly following internal verification",
+    "Apply for the Skilled Labourers blue CSCS card",
+    "Ensure that your Health, Safety and Environment Test is up to date"
+  ],
+  "benefits": [
+    "Increased earning potential",
+    "Demonstrates commitment to personal and professional development",
+    "Provides business enhancement for potential employers",
+    "Demonstrates knowledge and competence to an industry standard",
+    "Access to the blue Skilled Labourers CSCS card"
+  ],
+  "card": "Blue Skilled Labourers CSCS Card"
+},
+
+{
+  "course_name": "Level 2 NVQ Diploma In Controlling Lifting Operations – Slinger/Signaller",
+  "price": "£650 + VAT",
+  "link": "https://www.targetzerotraining.co.uk/level-2-nvq-diploma-in-controlling-lifting-operations-slinger-signaller/",
+  "for_whom": "For those working in the industry who are looking to apply for their blue CPCS card and to gain professional recognition of their occupational skills. There are no formal entry requirements.",
+  "units_mandatory": [
+    {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+    {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+    {"unit_name": "D/615/4938", "description": "Attaching and preparing suspended loads for movement using lifting accessories"}
+  ],
+  "assessment": [
+    "The assessor will support you in completing your portfolio",
+    "Completion in 4 – 6 weeks, providing you have the time",
+    "Record answers to knowledge units via a discussion",
+    "Certificate emailed to you directly following internal verification",
+    "Apply for the blue CPCS card A40 endorsement",
+    "Ensure that your Health, Safety and Environment Test is up to date"
+  ],
+  "benefits": [
+    "Increased earning potential",
+    "Demonstrates commitment to personal and professional development",
+    "Provides business enhancement for potential employers",
+    "Demonstrates knowledge and competence to an industry standard",
+    "Access to the blue CPCS card A40 endorsement"
+  ],
+  "card": "Skill Operator Card"
+},
+
+{
+  "course_name": "Level 2 NVQ Diploma in Wall and Floor Tiling",
+  "price": "£750 + VAT",
+  "link": "",
+  "for_whom": "For those working in the industry, seeking to gain professional recognition of their skills in the workplace.",
+  "units_mandatory": [
+    {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+    {"unit_name": "Y/508/6533", "description": "Moving, handling and storing resources"},
+    {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+    {"unit_name": "J/503/2547", "description": "Preparing backgrounds for tiling in the workplace"},
+    {"unit_name": "L/503/2548", "description": "Tiling wall and floor surfaces in the workplace"}
+  ],
+  "assessment": [
+    "The assessor will support you in gathering evidence for your portfolio",
+    "Evidence includes a Witness Testimony and relevant site and H&S documentation",
+    "Completion in 4 – 8 weeks, providing you have the time",
+    "Write or record answers to knowledge units via a discussion"
+  ],
+  "benefits": [
+    "Increased earning potential",
+    "Demonstrates commitment to personal and professional development",
+    "Provides business enhancement for potential employers",
+    "Demonstrates knowledge and competence to an industry standard",
+    "Access to the Blue Skilled Labourers CSCS card"
+  ],
+  "card": "Blue Skilled Labourers CSCS Card"
+},
+      
+{
+  "course_name": "Level 2 Diploma in Wood Operations – Site Carpentry NVQ",
+  "price": "£750 + VAT",
+  "link": "https://www.targetzerotraining.co.uk/level-2-diploma-in-wood-operations-site-carpentry-nvq/",
+  "for_whom": "For those working as carpenters working on site. There are no formal entry requirements in terms of qualifications, however, the delegate should be working in the role.",
+  "units_mandatory": [
+    {"unit_name": "A/503/1170", "description": "Conforming to general health, safety and welfare"},
+    {"unit_name": "J/503/1169", "description": "Conforming to productive working practices"},
+    {"unit_name": "F/503/1171", "description": "Moving, handling and storing resources"},
+    {"unit_name": "K/503/3402", "description": "Installing first fixing components"},
+    {"unit_name": "T/503/3404", "description": "Installing second fixing components"},
+    {"unit_name": "M/503/2641", "description": "Erecting structural carcassing components in the workplace"},
+    {"unit_name": "T/503/2642", "description": "Maintaining non-structural carpentry work in the workplace"},
+    {"unit_name": "K/616/9345", "description": "Installing fire resisting timber door assemblies and doorsets"},
+    {"unit_name": "T/506/5172", "description": "Setting up and using transportable cutting and shaping machines"}
+  ],
+  "assessment": [
+    "The assessor will support you in completing your portfolio",
+    "Completion in 4 – 8 weeks, providing you have the time",
+    "Record answers to knowledge units via a discussion",
+    "Certificate emailed to you directly following internal verification",
+    "Apply for your blue Skilled Worker CSCS card",
+    "Ensure that your Health, Safety and Environment Test is up to date"
+  ],
+  "benefits": [
+    "Increased earning potential",
+    "Demonstrates commitment to personal and professional development",
+    "Provides business enhancement for potential employers",
+    "Demonstrates knowledge and competence to an industry standard",
+    "Access to a CSCS card"
+  ],
+  "card": "Blue Skilled Labourers CSCS Card"
+},
+            
+            
+
+      {
+        "course_name": "Level 3 NVQ Diploma in Occupational Work Supervision",
+        "price": "£950 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-3-nvq-diploma-in-occupational-work-supervision/",
+        "for_whom": "Trade specific supervisors, sub-contract supervisors and gangers. There are no formal entry requirements in terms of qualifications.",
+        "units_mandatory": [
+          {"unit_name": "A/503/2772", "description": "Confirming work activities and resources for an occupational work area"},
+          {"unit_name": "R/503/2924", "description": "Confirming the occupational method of work"},
+          {"unit_name": "T/618/8495", "description": "Developing and maintaining good occupational working relationships"},
+          {"unit_name": "L/650/1406", "description": "Implementing and maintaining health, safety, environmental and welfare practices"},
+          {"unit_name": "F/503/2725", "description": "Co-ordinating and organising work operations"},
+          {"unit_name": "F/503/2742", "description": "Monitoring progress of work against schedules"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 8 – 10 weeks, providing you have the time",
+          "Write or record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the Supervisors Gold CSCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "The qualification is recognised as comparable to a degree in construction management",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business benefits for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Gold CSCS card"
+        ],
+        "card": "Gold Skilled Worker CSCS Card"
+      },
+
+      {
+        "course_name": "Level 3 NVQ Diploma in Contracting Operations",
+        "price": "£950 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-3-diploma-in-contracting-operations-nvq/",
+        "for_whom": "This NVQ is for those working in contracting operations in a variety of backgrounds. There are no formal entry requirements in terms of qualifications.",
+        "units_mandatory": [
+          {"unit_name": "A/651/1581", "description": "Operate Health, Safety and Welfare Systems"},
+          {"unit_name": "D/651/1582", "description": "Prepare Programmes and Schedules of Work"},
+          {"unit_name": "D/651/1583", "description": "Operate Project Information Systems"},
+          {"unit_name": "R/651/1589", "description": "Develop and Maintain Working Relationships and Personal Development"},
+          {"unit_name": "H/651/1600", "description": "Prepare and Process Invitations to Tender"},
+          {"unit_name": "J/651/1601", "description": "Prepare Estimates, Bids and Tenders in Construction"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 4 – 8 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for your CSCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to a CSCS card"
+        ],
+        "card": "Gold Skilled Worker CSCS Card"
+      },
+      
+      
+
+      {
+        "course_name": "Level 3 NVQ Diploma in Trowel Occupations – Brick Laying",
+        "price": "£950 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-3-nvq-diploma-in-trowel-occupations-brick-laying/",
+        "for_whom": "For those with the knowledge and skills of working in the brick laying industry. There are no formal entry requirements in terms of qualifications, although you must be working in the role.",
+        "units_mandatory": [
+          {"unit_name": "A/503/9463", "description": "Erecting masonry structures – 1 endorsement"},
+          {"unit_name": "Y/503/9471", "description": "Setting out to form masonry structures – 4 endorsements"},
+          {"unit_name": "H/503/9490", "description": "Erecting thin joint masonry structures"},
+          {"unit_name": "L/503/9550", "description": "Repairing and maintaining masonry structures"},
+          {"unit_name": "Y/504/6775", "description": "Installing drainage"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Evidence includes a Witness Testimony and relevant site and H&S documentation",
+          "Completion in 8 – 12 weeks, providing you have the time",
+          "Write or record answers to knowledge units via a discussion",
+          "Your CITB recognised certificate will be emailed to you upon completion and you can apply for your Gold Skilled Worker CSCS card",
+          "Before applying for your card, ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Demonstrates commitment to personal and professional development",
+          "Increased earning potential",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Gold Skilled Worker CSCS card"
+        ],
+        "card": "Gold Skilled Worker CSCS Card"
+      },
+
+      {
+        "course_name": "Level 3 NVQ Diploma in Decorative Finishing – Painting & Decorating",
+        "price": "£950 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-3-nvq-diploma-in-decorative-finishing-painting-and-decorating/",
+        "for_whom": "For those with the knowledge and skills of working in the painting and decorating industry. There are no formal entry requirements in terms of qualifications, although you must be working in the role.",
+        "units_mandatory": [
+          {"unit_name": "T/508/6538", "description": "Conforming to productive working practices"},
+          {"unit_name": "Y/508/6533", "description": "Moving, handling and storing resources"},
+          {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "A/615/1609", "description": "Erecting and dismantling access/working platforms"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Evidence includes a Witness Testimony and relevant site and H&S documentation",
+          "Completion in 8 – 12 weeks, providing you have the time",
+          "Write or record answers to knowledge units via a discussion",
+          "Your CITB recognised certificate will be emailed to you upon completion and you can apply for your Gold Skilled Worker CSCS card",
+          "Before applying for your card, ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Demonstrates commitment to personal and professional development",
+          "Increased earning potential",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Gold Skilled Worker CSCS card"
+        ],
+        "card": "Gold Skilled Worker CSCS Card"
+      },
+
+      {
+        "course_name": "Level 3 NVQ Diploma in Wall & Floor Tiling",
+        "price": "Not Specified",
+        "link": "https://www.targetzerotraining.co.uk/level-3-nvq-diploma-in-wall-and-floor-tiling/",
+        "for_whom": "Those with the knowledge and skills of working in the Tiling industry. There are no formal entry requirements in terms of qualifications.",
+        "units_mandatory": [
+          {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "A/503/2772", "description": "Confirming work activities and resources for an occupational work area"},
+          {"unit_name": "M/503/2915", "description": "Developing and maintaining good occupational working relationships"},
+          {"unit_name": "R/503/2924", "description": "Confirming the occupational method of work"},
+          {"unit_name": "M/618/1271", "description": "Laying sand and cement screeds in the workplace"},
+          {"unit_name": "M/618/1268", "description": "Prepare backgrounds for tiling"},
+          {"unit_name": "T/618/1269", "description": "Tiling wall and floor surfaces"},
+          {"unit_name": "K/618/1270", "description": "Producing complex ceramic, mosaic and stone surface finishes"},
+          {"unit_name": "T/618/1272", "description": "Providing drainage for tiled surfaces"},
+          {"unit_name": "A/618/1273", "description": "Laying under tile heating systems and tiling surfaces"},
+          {"unit_name": "F/618/1274", "description": "Producing internal and external sand and cement backgrounds"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Evidence includes a Witness Testimony and relevant site and H&S documentation",
+          "Completion in 8 – 12 weeks, providing you have the time",
+          "Write or record answers to knowledge units via a discussion",
+          "Your CITB recognised certificate will be emailed to you upon completion and you can apply for your Gold Skilled Worker CSCS card",
+          "Before applying for your card, ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Demonstrates commitment to personal and professional development",
+          "Increased earning potential",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Gold Skilled Worker CSCS card"
+        ],
+        "card": "Gold Skilled Worker CSCS Card"
+      },
+      
+      
+      {
+        "course_name": "Level 3 NVQ Diploma in Wood Occupations – Site Carpentry",
+        "price": "£950 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-3-diploma-in-wood-occupations-site-carpentry-nvq/",
+        "for_whom": "For experienced carpenters, joiners and shopfitters. There are no formal entry requirements in terms of qualifications.",
+        "units_mandatory": [
+          {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "A/503/2772", "description": "Confirming work activities and resources for an occupational work area"},
+          {"unit_name": "M/503/2915", "description": "Developing and maintaining good occupational working relationships"},
+          {"unit_name": "R/503/2924", "description": "Confirming the occupational method of work"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 4 – 8 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the Supervisors Gold CSCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Gold CSCS card"
+        ],
+        "card": "Gold Skilled Worker CSCS Card"
+      },
+
+      
+      {
+        "course_name": "Level 3 NVQ Diploma in Assessing Vocational Achievement in the Workplace",
+        "price": "£500 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-3-nvq-diploma-in-assessing-vocational-achievement-in-the-workplace/",
+        "for_whom": "This qualification is for those from any industry seeking a qualification in assessment of workplace achievement. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "D/601/5313", "description": "Understanding the principles and practices of assessment"},
+          {"unit_name": "H/601/5314", "description": "Assess occupational competence in the work environment"},
+          {"unit_name": "F/601/5319", "description": "Assess vocational skills, knowledge and understanding"}
+        ],
+        "assessment": [
+          "The assessor will support you in gathering evidence for your portfolio",
+          "Evidence includes a Witness Testimony and relevant site and H&S documentation",
+          "Completion in 8 – 12 weeks, providing you have the time",
+          "Write or record answers to knowledge units via a discussion"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Recognition of your assessment and training skills",
+          "Demonstrates knowledge and competence to an industry standard"
+        ],
+        "card": "Not Specified"
+      },
+
+      {
+        "course_name": "Level 3 NVQ Diploma in Roofing Occupations",
+        "price": "Not Specified",
+        "link": "https://www.targetzerotraining.co.uk/level-3-nvq-diploma-in-roofing-occupations/",
+        "for_whom": "Those with the knowledge and skills of working in the Roofing industry. There are no formal entry requirements in terms of qualifications.",
+        "units_mandatory": [
+          {"unit_name": "M/508/6537", "description": "Conforming to general health, safety and welfare"},
+          {"unit_name": "A/503/2772", "description": "Confirming work activities and resources for an occupational work area"},
+          {"unit_name": "M/503/2915", "description": "Developing and maintaining good occupational working relationships"},
+          {"unit_name": "R/503/2924", "description": "Confirming the occupational method of work"},
+          {"unit_name": "T/618/6410", "description": "Installing underlay, battens and roofing components"},
+          {"unit_name": "A/618/6411", "description": "Installing pre-formed weathering flashings to roofs"},
+          {"unit_name": "F/618/6412", "description": "Installing double-lap artificial roof slates"},
+          {"unit_name": "J/618/6413", "description": "Installing natural roof slate to mitred and vertical roof details"},
+          {"unit_name": "L/618/6414", "description": "Installing random natural roof slates with diminishing margins"},
+          {"unit_name": "R/618/6415", "description": "Stripping and reclaiming roof coverings"},
+          {"unit_name": "H/618/6418", "description": "Installing single-lap roof tiles to a fixed gauge"},
+          {"unit_name": "K/618/6419", "description": "Installing double-lap roof tiles to curved and swept roof details"},
+          {"unit_name": "D/618/6420", "description": "Installing single and double lap roof tiles to mitred and vertical roof details"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Evidence includes a Witness Testimony and relevant site and H&S documentation",
+          "Completion in 8 – 12 weeks, providing you have the time",
+          "Write or record answers to knowledge units via a discussion",
+          "Your CITB recognised certificate will be emailed to you upon completion and you can apply for your Gold Skilled Worker CSCS card",
+          "Before applying for your card, ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Demonstrates commitment to personal and professional development",
+          "Increased earning potential",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Gold Skilled Worker CSCS card"
+        ],
+        "card": "Gold Skilled Worker CSCS Card"
+      },
+      
+      
+
+
+      {
+        "course_name": "Level 4 NVQ Diploma in Site Supervision",
+        "price": "£1200 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-4-nvq-diploma-in-site-supervision/",
+        "for_whom": "Construction Site Supervisors. There are no formal entry requirements in terms of qualifications, however, you must be working in the role.",
+        "units_mandatory": [
+          {"unit_name": "A/651/0177", "description": "Developing and maintaining good occupational working relationships"},
+          {"unit_name": "A/650/0880", "description": "Implementing, maintaining and reviewing systems for health, safety, welfare, wellbeing and environmental protection"},
+          {"unit_name": "D/650/0881", "description": "Assessing and agreeing work methods"},
+          {"unit_name": "J/651/0469", "description": "Planning work activities and resources to meet project requirements"},
+          {"unit_name": "H/650/0883", "description": "Coordinating work control"},
+          {"unit_name": "J/650/0884", "description": "Controlling work progress against agreed programmes"},
+          {"unit_name": "K/650/0885", "description": "Allocating and monitoring the use of plant, equipment or machinery"},
+          {"unit_name": "M/650/0887", "description": "Implementing communication systems for the project"},
+          {"unit_name": "T/650/0889", "description": "Controlling work against agreed quality standards"},
+          {"unit_name": "D/650/0890", "description": "Contributing to the control of work quantities and costs"},
+          {"unit_name": "L/650/0886", "description": "Maintaining supplies of materials to meet project requirements"},
+          {"unit_name": "R/650/0888", "description": "Maintaining the dimensional accuracy of work"},
+          {"unit_name": "H/650/0892", "description": "Coordinating preparation for site operations"}
+        ],
+        "assessment": [
+          "The assessor will support you in gathering evidence for your portfolio",
+          "Evidence includes a Witness Testimony and relevant site and H&S documentation",
+          "Completion in 8 – 12 weeks, providing you have the time",
+          "Write or record answers to knowledge units via a discussion",
+          "Your CITB recognised certificate will be emailed to you upon completion and you can apply for your Gold Supervisor CSCS card",
+          "Before applying for your card, ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Demonstrates commitment to personal and professional development",
+          "Increased earning potential",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Gold Supervisor CSCS card"
+        ],
+        "card": "Gold Skilled Worker CSCS Card"
+      },
+      
+      {
+        "course_name": "Level 4 NVQ Diploma in Controlling Lifting Operations",
+        "price": "£1000 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-4-nvq-diploma-in-controlling-lifting-operations-crane-supervisor/",
+        "for_whom": "For those working in the Lifting Operations as a Crane Supervisor. There are no formal entry requirements in terms of qualifications, however, you must be working in the lifting industry.",
+        "units_mandatory": [
+          {"unit_name": "M/503/2915", "description": "Developing and maintaining good occupational working relationships"},
+          {"unit_name": "H/600/7004", "description": "Supervising lifting operations using lifting equipment"},
+          {"unit_name": "D/600/7521", "description": "Maintaining the dimensional accuracy of work"},
+          {"unit_name": "H/600/7536", "description": "Co-ordinating preparation work for site or lifting operations"},
+          {"unit_name": "D/600/7552", "description": "Allocating work and checking people’s performance"},
+          {"unit_name": "D/504/8544", "description": "Maintaining systems for health, safety, welfare and environmental protection"},
+          {"unit_name": "T/504/8548", "description": "Co-ordinating and organising the control of work"},
+          {"unit_name": "M/504/8550", "description": "Allocating and monitoring the use of plant, equipment or machinery"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Evidence includes a Witness Testimony and relevant site and H&S documentation",
+          "Completion in 8 – 12 weeks, providing you have the time",
+          "Write or record answers to knowledge units via a discussion",
+          "You must have completed the Level 3 Award in Assessing Vocationally Related Achievement in order to undertake this qualification",
+          "Your CITB recognised certificate will be emailed to you upon completion and you can apply for your Blue CPCS card",
+          "Before applying for your card, ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard"
+        ],
+        "card": "Blue CPCS Skill Operator Card"
+      },
+      
+
+
+
+      {
+        "course_name": "Level 4 NVQ Award in Internal Quality Assurance",
+        "price": "Price: £650 +VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-4-nvq-award-in-the-internal-quality-assurance-of-assessment-processes-and-practices/",
+        "for_whom": "This NVQ is for those looking to work as an Internal Verifier (IV) or Internal Quality Assurer (IQA) across any industry, verifying NVQ assessments.",
+        "units_mandatory": [
+          {"unit_name": "T/601/5320", "description": "Understanding the principles and practices of internally assessing the quality of assessment"},
+          {"unit_name": "A/601/5321", "description": "Internally assure the quality of assessment"}
+        ],
+        "assessment": [
+          "The assessor will support you in gathering evidence for your portfolio",
+          "Evidence includes a Witness Testimony and relevant IV documentation",
+          "Completion in 4 – 8 weeks, providing you have the time",
+          "Write or record answers to knowledge units via a discussion",
+          "Your certificate will be emailed to you upon completion and you will be able to confidently internally verify portfolios within your industry"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard"
+        ],
+        "card": "Not Specified"
+      },
+      
+
+
+
+
+      {
+        "course_name": "Level 5 NVQ Diploma in Controlling Lifting Operations & Planning Lifts",
+        "price": "£1200 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-5-nvq-diploma-in-controlling-lifting-operations-and-planning-lifts-appointed-person/",
+        "for_whom": "For those working in the role as an Appointed Person, planning and controlling lifting operations. There are no formal entry requirements in terms of qualifications, however, you must be working as an AP in the lifting industry.",
+        "units_mandatory": [
+          {"unit_name": "M/503/2915", "description": "Developing and maintaining good occupational working relationships"},
+          {"unit_name": "J/504/8747", "description": "Planning Lifting Activities Using Cranes and/or Lifting Equipment"},
+          {"unit_name": "R/504/8749", "description": "Planning and Establishing Health, Safety, Welfare and Environmental Systems"},
+          {"unit_name": "M/504/8547", "description": "Planning Activities and Resources to Meet Work Requirements"},
+          {"unit_name": "M/600/7328", "description": "Evaluating and Selecting Work Methods to Meet Project Requirements"},
+          {"unit_name": "Y/600/7331", "description": "Planning the Preparation of the Site for the Project or Operation"},
+          {"unit_name": "Y/600/7341", "description": "Identifying, Allocating and Planning the Deployment and Use of Plant, Equipment or Machinery"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Evidence includes a Witness Testimony and relevant site and H&S documentation",
+          "Completion in 8 – 12 weeks, providing you have the time",
+          "Write or record answers to knowledge units via a discussion",
+          "Our CITB recognised certificate will be emailed to you upon completion and you can apply for your Blue CPCS card",
+          "Before applying for your card, ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Demonstrates commitment to personal and professional development",
+          "Increased earning potential",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Blue CPCS card"
+        ],
+        "card": "Blue CPCS Skill Operator Card"
+      },
+      
+
+
+
+      {
+        "course_name": "NVQ Level 6 Occupational Health and Safety",
+        "price": "£1500 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-6-nvq-diploma-in-occupational-health-and-safety/",
+        "for_whom": "For managers responsible for health and safety, SHEQ managers, property and facilities managers and Principal Contractors or Designers.",
+        "units_mandatory": [
+          {"unit_name": "D/616/9536", "description": "Promote a positive H&S culture"},
+          {"unit_name": "F/616/9531", "description": "Develop and implement the H&S policy"},
+          {"unit_name": "J/616/9532", "description": "Develop and implement effective communication systems in H&S"},
+          {"unit_name": "R/616/9534", "description": "Develop and maintain individual and organisational H&S competence"},
+          {"unit_name": "Y/616/9535", "description": "Identify, assess and control H&S risks"},
+          {"unit_name": "H/616/9537", "description": "Develop and implement proactive monitoring systems for H&S"},
+          {"unit_name": "K/616/9538", "description": "Develop and implement reactive monitoring systems for H&S"},
+          {"unit_name": "M/616/9539", "description": "Develop and implement H&S emergency response systems"},
+          {"unit_name": "H/616/9540", "description": "Develop and implement H&S review systems"},
+          {"unit_name": "K/616/9541", "description": "Maintain knowledge of improvements to influence H&S"}
+        ],
+        "assessment": [
+          "The assessor will support you in gathering evidence for your portfolio",
+          "Evidence includes a Witness Testimony and relevant site and H&S documentation",
+          "Completion in 8 – 12 weeks, providing you have the time",
+          "Write or record answers to knowledge units via a discussion",
+          "Your CITB recognised certificate will be emailed to you upon completion and you can apply for your Black Managers CSCS card",
+          "Before applying for your card, ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Comparable to a degree in construction management",
+          "Demonstrates commitment to personal and professional development",
+          "Increased income potential",
+          "Business enhancement for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Black Managers CSCS card"
+        ],
+        "card": "Black CSCS Managers Card"
+      },
+      
+      {
+        "course_name": "NVQ Level 6 Construction Contracting Operations Management",
+        "price": "£1500 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-6-contracting-operations-management-nvq/",
+        "for_whom": "Construction Site Managers and Assistant Site Managers involved in contracting operations.",
+        "units_mandatory": [
+          {"unit_name": "A/651/0663", "description": "Maintaining construction health, safety and welfare systems"},
+          {"unit_name": "D/651/0664", "description": "Managing the performance of teams and individuals"},
+          {"unit_name": "F/651/0665", "description": "Leading meetings and taking decisions"},
+          {"unit_name": "H/651/0666", "description": "Developing and maintaining working relationships"},
+          {"unit_name": "Y/650/0906", "description": "Managing your personal development"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 8 – 12 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the Managers Black CSCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "The qualification is recognised as comparable to a degree in construction management",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business benefits for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Black CSCS card"
+        ],
+        "card": "Black CSCS Managers Card"
+      },
+      
+      {
+        "course_name": "Level 6 NVQ Construction Site Management",
+        "price": "£1500 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-6-nvq-diploma-in-construction-site-management/",
+        "for_whom": "Construction Site Managers, Assistant Site Managers and Project Managers. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "J/651/0404", "description": "Ensuring that work activities and resources meet project work requirements"},
+          {"unit_name": "H/651/0430", "description": "Managing the installation, maintenance, monitoring and removal of temporary works"},
+          {"unit_name": "R/651/0426", "description": "Evaluating feedback and making recommendations"},
+          {"unit_name": "L/651/0424", "description": "Controlling project quantities and costs"},
+          {"unit_name": "F/651/0420", "description": "Establishing dimensional control criteria"},
+          {"unit_name": "Y/651/0419", "description": "Identifying, allocating and planning the deployment and use of plant, equipment or machinery"},
+          {"unit_name": "H/651/0412", "description": "Controlling project progress against agreed programmes in the workplace"},
+          {"unit_name": "T/651/0409", "description": "Controlling project progress against agreed quality standards"},
+          {"unit_name": "K/651/0405", "description": "Organising, controlling and monitoring supplies of materials"},
+          {"unit_name": "H/651/0403", "description": "Monitoring project activities"},
+          {"unit_name": "F/651/0402", "description": "Planning the preparation of the site for the project"},
+          {"unit_name": "R/651/0363", "description": "Establishing, controlling and monitoring environmental factors and sustainability"},
+          {"unit_name": "L/650/0895", "description": "Contributing to the identification of a work team"},
+          {"unit_name": "J/650/0893", "description": "Allocating work and monitoring people's performance"},
+          {"unit_name": "A/651/0177", "description": "Developing and maintaining good occupational working relationships"},
+          {"unit_name": "Y/650/0906", "description": "Managing your personal development"}
+        ],
+        "assessment": [
+          "The assessor will support you in completing your portfolio",
+          "Completion in 8 – 12 weeks, providing you have the time",
+          "Record answers to knowledge units via a discussion",
+          "Certificate emailed to you directly following internal verification",
+          "Apply for the Managers Black CSCS card",
+          "Ensure that your Health, Safety and Environment Test is up to date, you can book here: Pearson VUE – CITB link",
+          "Target Zero will help to train up the leader and progress their skills and knowledge in the relevant industry",
+          "The NVQ Level 6 Construction Management qualification will confirm the learner’s occupational competence as a Construction Site Manager",
+          "Upon completion, the qualification will provide the knowledge and confirmation to employers, industry managers and card schemes that the learner has the necessary skills and knowledge needed to carry out the role of a Construction Site Manager"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "The qualification is recognised as comparable to a degree in construction management",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business benefits for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Black CSCS card"
+        ],
+        "card": "Black CSCS Managers Card"
+      },
+      
+      {
+        "course_name": "Level 7 NVQ Construction Senior Site Management",
+        "price": "£1800 + VAT",
+        "link": "https://www.targetzerotraining.co.uk/level-7-nvq-diploma-in-construction-senior-management/",
+        "for_whom": "Those who are currently managing construction projects at a senior level, such as directors, senior site or project managers, senior surveyors. There are no formal entry requirements.",
+        "units_mandatory": [
+          {"unit_name": "R/651/1796", "description": "Manage Project Processes in Construction Management"},
+          {"unit_name": "T/651/1797", "description": "Manage Teams in Construction Management"},
+          {"unit_name": "Y/651/1798", "description": "Provide Advice, Judgement and Service Ethically in Construction Management"},
+          {"unit_name": "L/651/1801", "description": "Develop Self and Others in Construction Management"},
+          {"unit_name": "M/651/1802", "description": "Control Projects in Construction Management"},
+          {"unit_name": "R/651/1803", "description": "Plan a Construction Organisation's Workforce"}
+        ],
+        "assessment": [
+          "The assessor will support you in gathering evidence for your portfolio",
+          "Evidence includes a Witness Testimony and relevant site and H&S documentation",
+          "Completion in 8 – 12 weeks, providing you have the time",
+          "Write or record answers to knowledge units via a discussion",
+          "Your CITB recognised certificate will be emailed to you upon completion and you can apply for your Black Managers CSCS card",
+          "Before applying for your card, ensure that your Health, Safety and Environment Test is up to date"
+        ],
+        "benefits": [
+          "Increased earning potential",
+          "The qualification is recognised as comparable to a master’s degree in construction management",
+          "Fast track to MCIOB",
+          "Demonstrates commitment to personal and professional development",
+          "Provides business benefits for potential employers",
+          "Demonstrates knowledge and competence to an industry standard",
+          "Access to the Black CSCS card"
+        ],
+        "card": "Black CSCS Managers Card"
+      }
+      
+      
+      
+      
+      
+    ],
+    "general": {
+      "no_college": "No need to attend college",
+      "immediate_enrolment": "Immediate enrolment & start",
+      "payment_options": "50% upfront only, or Interest-Free payment options to suit your budget",
+      "fast_turnaround": "Fast turnaround when required",
+      "one_to_one": "One to One NVQ assessor",
+      "account_manager": "Dedicated Target Zero account manager",
+      "pass_rate": "100% Pass Rate"
+    }
+  }
+  
